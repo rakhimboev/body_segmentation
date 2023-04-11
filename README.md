@@ -1,3 +1,9 @@
+This is a basic model for Body segmentation project, which has been developed using ReactJS and Tensorflow JS. There are plans to add additional features and functionality to this project in the future. In order to test this basic project you can install some dependencies in the text file given.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
